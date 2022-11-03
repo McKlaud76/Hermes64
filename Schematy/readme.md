@@ -4,7 +4,7 @@ W przypadku jakichkolwiek wątpliwości i nieścisłości, za punkt odniesienia 
 
 hermes_0001.jpeg - Clock & Counters (CC)
 
-hermes_0002.jpeg - Dynamic RAM Controller (DRC)
+hermes_0002.jpeg - Display RAM Controller (DRC)
 
 hermes_0003.jpeg - CPU
 
