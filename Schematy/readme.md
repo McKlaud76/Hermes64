@@ -23,6 +23,6 @@ Opisy poszczególnych elekementów składowych zostały zaczerpnięte z strony p
 
 >Płyta wejścia wyjścia. Port klawiatury, joysticka, wejście/wyjście pamięci masowej (magnetofon kasetowy). Układ RESET i NMI, dekoder adresów oraz dodatkowy port 30, specyficzny dla Hermesa, przy pomocy którego steruje się MMU, można zmienić adres pamięci obrazu a nawet całkowicie go wyłączyć. Po wyłączeniu obrazu procesor ma dostęp do pamięci bez wait-states przy wszystkich operacjach.
 
-- hermes_0005.jpeg - Zasilacz
+- hermes_0005.jpeg - Zasilacz (PSU)
 
 >Główny zasilacz z impulsową stabilizacją oraz dwa zasilacze pomocnicze. Jest też tu zabezpieczenie, tzw. crow bar w postaci tyrystora, który ma za zadanie zewrzeć zasilacz i przepalić bezpiecznik, gdyby zasilacz się uszkodził i dawał napięcie mogące uszkodzić logikę komputera.
